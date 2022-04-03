@@ -26,3 +26,37 @@ class v2 : UIViewController{
         super.viewDidLoad()
     }
 }
+
+
+class v3 : UIViewController{
+    override func viewDidLoad() {
+        super.viewDidLoad()
+    }
+}
+
+
+
+class v4 : UIViewController{
+    override func viewDidLoad() {
+        super.viewDidLoad()
+    }
+}
+
+
+
+class v5 : UIViewController{
+    override func viewDidLoad() {
+        super.viewDidLoad()
+    }
+}
+
+
+
+class v6 : UIViewController{
+    override func viewDidLoad() {
+        super.viewDidLoad()
+    }
+}
+
+
+

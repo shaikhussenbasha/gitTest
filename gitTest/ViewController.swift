@@ -44,19 +44,3 @@ class v4 : UIViewController{
 
 
 
-class v5 : UIViewController{
-    override func viewDidLoad() {
-        super.viewDidLoad()
-    }
-}
-
-
-
-class v6 : UIViewController{
-    override func viewDidLoad() {
-        super.viewDidLoad()
-    }
-}
-
-
-
